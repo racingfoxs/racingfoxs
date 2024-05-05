@@ -36,6 +36,6 @@ I am a passionate Software Developer with a knack for crafting intuitive and hig
 
 - Connect with me on [Twitter](https://twitter.com/divyashwar)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/divyashwar)
-- Connect with me on [Email](emailto:clixacom@gmail.com)
+- Connect with me on [Email](clixacom@gmail.com)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
